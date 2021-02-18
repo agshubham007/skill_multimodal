@@ -1,0 +1,323 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "A fun packed quiz with topics ranging from GOAT (Greatest of All Times) Movie Quotes and Music from Hollywood and Bollywood.",
+          "examplePhrases": [
+            "Alexa, open music game",
+            "Alexa, launch music game"
+          ],
+          "keywords": [
+            "hollywood",
+            "quotes",
+            "dialogues",
+            "blank",
+            "quiz",
+            "trivia",
+            "music",
+            "charlie",
+            "malone",
+            "harry",
+            "potter",
+            "bollywood",
+            "beyonce",
+            "gaga",
+            "fun",
+            "games",
+            "friends",
+            "family",
+            "timepass",
+            "quizup",
+            "music",
+            "gaana",
+            "global",
+            "problems",
+            "trivi",
+            "trivia",
+            "quizes",
+            "free",
+            "gamer"
+          ],
+          "name": "Music Game",
+          "description": "A quiz with best fun filled categories ranging from Dialogues and Songs from Hollywood and Bollywood. This is an all in one quiz for friends and family. Just enable it and play it with friends and family.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "UPDATE WITH 4 NEW CATEGORIES",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "A fun packed quiz with topics ranging from GOAT (Greatest of All Times) Movie Quotes and Music from Hollywood and Bollywood.",
+          "examplePhrases": [
+            "Alexa, open music game",
+            "Alexa, launch music game"
+          ],
+          "keywords": [
+            "hollywood",
+            "quotes",
+            "dialogues",
+            "blank",
+            "quiz",
+            "trivia",
+            "music",
+            "charlie",
+            "malone",
+            "harry",
+            "potter",
+            "bollywood",
+            "beyonce",
+            "gaga",
+            "fun",
+            "games",
+            "friends",
+            "family",
+            "timepass",
+            "quizup",
+            "music",
+            "gaana",
+            "global",
+            "problems",
+            "trivi",
+            "trivia",
+            "quizes",
+            "free",
+            "gamer"
+          ],
+          "name": "Music Game",
+          "description": "A quiz with best fun filled categories ranging from Dialogues and Songs from Hollywood and Bollywood. This is an all in one quiz for friends and family. Just enable it and play it with friends and family.",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "UPDATE WITH 4 NEW CATEGORIES",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "A fun packed quiz with topics ranging from GOAT (Greatest of All Times) Movie Quotes and Music from Bollywood and Hollywood.",
+          "examplePhrases": [
+            "Alexa, open music game",
+            "Alexa, launch music game"
+          ],
+          "keywords": [
+            "hollywood",
+            "quotes",
+            "dialogues",
+            "blank",
+            "quiz",
+            "trivia",
+            "music",
+            "charlie",
+            "malone",
+            "harry",
+            "potter",
+            "bollywood",
+            "beyonce",
+            "gaga",
+            "fun",
+            "games",
+            "friends",
+            "family",
+            "timepass",
+            "quizup",
+            "music",
+            "gaana",
+            "global",
+            "problems",
+            "trivi",
+            "trivia",
+            "quizes",
+            "free",
+            "gamer"
+          ],
+          "name": "Music Game",
+          "description": "A quiz with best fun filled categories ranging from Dialogues and Songs from Hollywood and Bollywood. This is an all in one quiz for friends and family. Just enable it and play it with friends and family.",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "UPDATE WITH 4 NEW CATEGORIES",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "A fun packed quiz with topics ranging from GOAT (Greatest of All Times) Movie Quotes and Music from Hollywood and Bollywood.",
+          "examplePhrases": [
+            "Alexa, open music game",
+            "Alexa, launch music game"
+          ],
+          "keywords": [
+            "hollywood",
+            "quotes",
+            "dialogues",
+            "blank",
+            "quiz",
+            "trivia",
+            "music",
+            "charlie",
+            "malone",
+            "harry",
+            "potter",
+            "bollywood",
+            "beyonce",
+            "gaga",
+            "fun",
+            "games",
+            "friends",
+            "family",
+            "timepass",
+            "quizup",
+            "music",
+            "gaana",
+            "global",
+            "problems",
+            "trivi",
+            "trivia",
+            "quizes",
+            "free",
+            "gamer"
+          ],
+          "name": "Music Game",
+          "description": "A quiz with best fun filled categories ranging from Dialogues and Songs from Hollywood and Bollywood. This is an all in one quiz for friends and family. Just enable it and play it with friends and family.",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "UPDATE WITH 4 NEW CATEGORIES",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "A fun packed quiz with topics ranging from GOAT (Greatest of All Times) Movie Quotes and Music from Hollywood and Bollywood.",
+          "examplePhrases": [
+            "Alexa, open music game",
+            "Alexa, launch music game"
+          ],
+          "keywords": [
+            "hollywood",
+            "quotes",
+            "dialogues",
+            "blank",
+            "quiz",
+            "trivia",
+            "music",
+            "charlie",
+            "malone",
+            "harry",
+            "potter",
+            "bollywood",
+            "beyonce",
+            "gaga",
+            "fun",
+            "games",
+            "friends",
+            "family",
+            "timepass",
+            "quizup",
+            "music",
+            "gaana",
+            "global",
+            "problems",
+            "trivi",
+            "trivia",
+            "quizes",
+            "free",
+            "gamer"
+          ],
+          "name": "Music Game",
+          "description": "A quiz with best fun filled categories ranging from Dialogues and Songs from Hollywood and Bollywood. This is an all in one quiz for friends and family. Just enable it and play it with friends and family.",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "UPDATE WITH 4 NEW CATEGORIES",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "sourceLocaleForLanguages": [
+          {
+            "sourceLocale": "en-IN",
+            "language": "en"
+          }
+        ],
+        "isActive": true
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "QUIZZES",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:086081848198:function:96715dd8-80a0-4fdd-8f2f-b3a835711027:Release_0"
+        },
+        "interfaces": [
+          {
+            "supportedViewports": [
+              {
+                "minHeight": 540,
+                "mode": "TV",
+                "shape": "RECTANGLE",
+                "maxHeight": 540,
+                "minWidth": 960,
+                "maxWidth": 960
+              },
+              {
+                "minHeight": 480,
+                "mode": "HUB",
+                "shape": "ROUND",
+                "maxHeight": 480,
+                "minWidth": 480,
+                "maxWidth": 480
+              },
+              {
+                "minHeight": 600,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 600,
+                "minWidth": 1024,
+                "maxWidth": 1024
+              },
+              {
+                "minHeight": 800,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 800,
+                "minWidth": 1280,
+                "maxWidth": 1280
+              },
+              {
+                "minHeight": 480,
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "maxHeight": 480,
+                "minWidth": 960,
+                "maxWidth": 960
+              }
+            ],
+            "type": "ALEXA_PRESENTATION_APL"
+          }
+        ],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:086081848198:function:96715dd8-80a0-4fdd-8f2f-b3a835711027:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:086081848198:function:96715dd8-80a0-4fdd-8f2f-b3a835711027:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:086081848198:function:96715dd8-80a0-4fdd-8f2f-b3a835711027:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {},
+        "en-CA": {},
+        "en-IN": {},
+        "en-AU": {},
+        "en-GB": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
